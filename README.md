@@ -1,7 +1,6 @@
 # Space Chasers: Project 1
 
-## SPACE CHASERS 
-is a web application that allows users in the USA to quickly know if they are able to find and view an Aurora. The user inputs a zip code and the app finds the the nearest registered Dark Sky Places via the International Dark-Sky Association (IDA).
+ SPACE CHASERS is a web application that allows users in the USA to quickly know if they are able to find and view an Aurora. The user inputs a zip code and the app finds the the nearest registered Dark Sky Places via the International Dark-Sky Association (IDA).
 
 ## CORE RESPONSIBILITIES:
 UI/UX
